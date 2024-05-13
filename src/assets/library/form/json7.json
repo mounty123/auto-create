@@ -1,0 +1,572 @@
+{
+  "widgetList": [
+    {
+      "type": "static-text",
+      "icon": "static-text",
+      "formItemFlag": false,
+      "options": {
+        "name": "statictext111193",
+        "columnWidth": "200px",
+        "hidden": false,
+        "textContent": "VFormé—®å·è°ƒæŸ¥è¡¨",
+        "customClass": [],
+        "onCreated": "",
+        "onMounted": "",
+        "label": "static-text"
+      },
+      "id": "statictext111193"
+    },
+    {
+      "type": "divider",
+      "icon": "divider",
+      "formItemFlag": false,
+      "options": {
+        "name": "divider102346",
+        "label": "",
+        "columnWidth": "200px",
+        "direction": "horizontal",
+        "contentPosition": "center",
+        "hidden": false,
+        "customClass": [],
+        "onCreated": "",
+        "onMounted": ""
+      },
+      "id": "divider102346"
+    },
+    {
+      "type": "static-text",
+      "icon": "static-text",
+      "formItemFlag": false,
+      "options": {
+        "name": "statictext94178",
+        "columnWidth": "200px",
+        "hidden": false,
+        "textContent": "1. æ‚¨æ˜¯ä»Žä»€ä¹ˆæ¸ é“äº†è§£åˆ°VFormï¼Ÿï¼ˆç«–æŽ’ï¼‰",
+        "customClass": "",
+        "onCreated": "",
+        "onMounted": "",
+        "label": "static-text"
+      },
+      "id": "statictext94178"
+    },
+    {
+      "type": "radio",
+      "icon": "radio-field",
+      "formItemFlag": true,
+      "options": {
+        "name": "radio63396",
+        "label": "radio",
+        "labelAlign": "",
+        "defaultValue": "",
+        "columnWidth": "200px",
+        "size": "",
+        "displayStyle": "block",
+        "buttonStyle": false,
+        "border": false,
+        "labelWidth": null,
+        "labelHidden": true,
+        "disabled": false,
+        "hidden": false,
+        "optionItems": [
+          {
+            "label": "æŽ˜é‡‘",
+            "value": 1
+          },
+          {
+            "label": "çŸ¥ä¹Ž",
+            "value": 2
+          },
+          {
+            "label": "æœç´¢å¼•æ“Ž",
+            "value": 3
+          },
+          {
+            "value": 4,
+            "label": "å…¶ä»–"
+          }
+        ],
+        "required": false,
+        "validation": "",
+        "validationHint": "",
+        "customClass": [],
+        "labelIconClass": null,
+        "labelIconPosition": "rear",
+        "labelTooltip": null,
+        "onCreated": "",
+        "onMounted": "",
+        "onChange": "",
+        "onValidate": ""
+      },
+      "id": "radio63396"
+    },
+    {
+      "type": "static-text",
+      "icon": "static-text",
+      "formItemFlag": false,
+      "options": {
+        "name": "statictext46881",
+        "columnWidth": "200px",
+        "hidden": false,
+        "textContent": "2. æ‚¨åœ¨äº§å“å¼€å‘ä¸­æ‰¿æ‹…ä»€ä¹ˆè§’è‰²ï¼Ÿï¼ˆæ¨ªæŽ’ï¼‰",
+        "customClass": "",
+        "onCreated": "",
+        "onMounted": "",
+        "label": "static-text"
+      },
+      "id": "statictext46881"
+    },
+    {
+      "type": "radio",
+      "icon": "radio-field",
+      "formItemFlag": true,
+      "options": {
+        "name": "radio113860",
+        "label": "radio",
+        "labelAlign": "",
+        "defaultValue": null,
+        "columnWidth": "200px",
+        "size": "",
+        "displayStyle": "inline",
+        "buttonStyle": false,
+        "border": false,
+        "labelWidth": null,
+        "labelHidden": true,
+        "disabled": false,
+        "hidden": false,
+        "optionItems": [
+          {
+            "value": "1",
+            "label": "äº§å“ç»ç†"
+          },
+          {
+            "value": "2",
+            "label": "ç ”å‘ç»ç†"
+          },
+          {
+            "value": "3",
+            "label": "æž¶æž„å¸ˆ"
+          },
+          {
+            "value": "4",
+            "label": "å‰ç«¯å¼€å‘"
+          },
+          {
+            "value": "5",
+            "label": "åŽç«¯å¼€å‘"
+          },
+          {
+            "value": "6",
+            "label": "å…¶ä»–"
+          }
+        ],
+        "required": false,
+        "validation": "",
+        "validationHint": "",
+        "customClass": "",
+        "labelIconClass": null,
+        "labelIconPosition": "rear",
+        "labelTooltip": null,
+        "onCreated": "",
+        "onMounted": "",
+        "onChange": "",
+        "onValidate": ""
+      },
+      "id": "radio113860"
+    },
+    {
+      "type": "static-text",
+      "icon": "static-text",
+      "formItemFlag": false,
+      "options": {
+        "name": "statictext96809",
+        "columnWidth": "200px",
+        "hidden": false,
+        "textContent": "3. æ‚¨ä¸»è¦åœ¨ä»€ä¹ˆåœºæ™¯ä¸­ä½¿ç”¨VFormï¼Ÿï¼ˆå¤šé€‰ï¼‰",
+        "customClass": "",
+        "onCreated": "",
+        "onMounted": "",
+        "label": "static-text"
+      },
+      "id": "statictext96809"
+    },
+    {
+      "type": "checkbox",
+      "icon": "checkbox-field",
+      "formItemFlag": true,
+      "options": {
+        "name": "checkbox102067",
+        "label": "checkbox",
+        "labelAlign": "",
+        "defaultValue": [],
+        "columnWidth": "200px",
+        "size": "",
+        "displayStyle": "inline",
+        "buttonStyle": false,
+        "border": false,
+        "labelWidth": null,
+        "labelHidden": true,
+        "disabled": false,
+        "hidden": false,
+        "optionItems": [
+          {
+            "value": "1",
+            "label": "å·¥ä½œæµå¼•æ“Ž/æµç¨‹ç®¡ç†"
+          },
+          {
+            "value": "2",
+            "label": "ä½Žä»£ç å¼€å‘å¹³å°"
+          },
+          {
+            "value": "3",
+            "label": "åŠ¨æ€è¡¨å•ç”Ÿæˆ"
+          },
+          {
+            "value": "4",
+            "label": "å¯è§†åŒ–è¡¨å•è®¾è®¡"
+          },
+          {
+            "value": "5",
+            "label": "æ•°æ®æ”¶é›†/é—®å·è°ƒæŸ¥"
+          }
+        ],
+        "required": false,
+        "validation": "",
+        "validationHint": "",
+        "customClass": "",
+        "labelIconClass": null,
+        "labelIconPosition": "rear",
+        "labelTooltip": null,
+        "onCreated": "",
+        "onMounted": "",
+        "onChange": "",
+        "onValidate": ""
+      },
+      "id": "checkbox102067"
+    },
+    {
+      "type": "static-text",
+      "icon": "static-text",
+      "formItemFlag": false,
+      "options": {
+        "name": "statictext44888",
+        "columnWidth": "200px",
+        "hidden": false,
+        "textContent": "4. æ‚¨å¯¹VFormçŽ°æœ‰çš„åŠŸèƒ½æ˜¯å¦æ»¡æ„ï¼Ÿ",
+        "customClass": "",
+        "onCreated": "",
+        "onMounted": "",
+        "label": "static-text"
+      },
+      "id": "statictext44888"
+    },
+    {
+      "type": "radio",
+      "icon": "radio-field",
+      "formItemFlag": true,
+      "options": {
+        "name": "radio74071",
+        "label": "radio",
+        "labelAlign": "",
+        "defaultValue": null,
+        "columnWidth": "200px",
+        "size": "",
+        "displayStyle": "inline",
+        "buttonStyle": false,
+        "border": false,
+        "labelWidth": null,
+        "labelHidden": true,
+        "disabled": false,
+        "hidden": false,
+        "optionItems": [
+          {
+            "value": "1",
+            "label": "éžå¸¸æ»¡æ„"
+          },
+          {
+            "value": "2",
+            "label": "ä¸€èˆ¬"
+          },
+          {
+            "value": "3",
+            "label": "ä¸æ»¡æ„"
+          }
+        ],
+        "required": false,
+        "validation": "",
+        "validationHint": "",
+        "customClass": "",
+        "labelIconClass": null,
+        "labelIconPosition": "rear",
+        "labelTooltip": null,
+        "onCreated": "",
+        "onMounted": "",
+        "onChange": "",
+        "onValidate": ""
+      },
+      "id": "radio74071"
+    },
+    {
+      "type": "static-text",
+      "icon": "static-text",
+      "formItemFlag": false,
+      "options": {
+        "name": "statictext36206",
+        "columnWidth": "200px",
+        "hidden": false,
+        "textContent": "5. æ‚¨å¯¹VFormçš„æ–‡æ¡£æŒ‡å—æ˜¯å¦æ»¡æ„ï¼Ÿ",
+        "customClass": "",
+        "onCreated": "",
+        "onMounted": "",
+        "label": "static-text"
+      },
+      "id": "statictext36206"
+    },
+    {
+      "type": "radio",
+      "icon": "radio-field",
+      "formItemFlag": true,
+      "options": {
+        "name": "radio88180",
+        "label": "radio",
+        "labelAlign": "",
+        "defaultValue": null,
+        "columnWidth": "200px",
+        "size": "",
+        "displayStyle": "inline",
+        "buttonStyle": false,
+        "border": false,
+        "labelWidth": null,
+        "labelHidden": true,
+        "disabled": false,
+        "hidden": false,
+        "optionItems": [
+          {
+            "value": "1",
+            "label": "éžå¸¸æ»¡æ„"
+          },
+          {
+            "value": "2",
+            "label": "ä¸€èˆ¬"
+          },
+          {
+            "value": "3",
+            "label": "ä¸æ»¡æ„"
+          }
+        ],
+        "required": false,
+        "validation": "",
+        "validationHint": "",
+        "customClass": "",
+        "labelIconClass": null,
+        "labelIconPosition": "rear",
+        "labelTooltip": null,
+        "onCreated": "",
+        "onMounted": "",
+        "onChange": "",
+        "onValidate": ""
+      },
+      "id": "radio88180"
+    },
+    {
+      "type": "static-text",
+      "icon": "static-text",
+      "formItemFlag": false,
+      "options": {
+        "name": "statictext26511",
+        "columnWidth": "200px",
+        "hidden": false,
+        "textContent": "6. æ‚¨å¸Œæœ›VFormçš„ç‰ˆæœ¬æ›´æ–°å‘¨æœŸï¼Ÿ",
+        "customClass": "",
+        "onCreated": "",
+        "onMounted": "",
+        "label": "static-text"
+      },
+      "id": "statictext26511"
+    },
+    {
+      "type": "radio",
+      "icon": "radio-field",
+      "formItemFlag": true,
+      "options": {
+        "name": "radio71802",
+        "label": "radio",
+        "labelAlign": "",
+        "defaultValue": null,
+        "columnWidth": "200px",
+        "size": "",
+        "displayStyle": "inline",
+        "buttonStyle": false,
+        "border": false,
+        "labelWidth": null,
+        "labelHidden": true,
+        "disabled": false,
+        "hidden": false,
+        "optionItems": [
+          {
+            "value": "1",
+            "label": "ä¸€å‘¨ä¸€æ¬¡"
+          },
+          {
+            "value": "2",
+            "label": "åŠæœˆä¸€æ¬¡"
+          },
+          {
+            "value": "3",
+            "label": "ä¸€æœˆä¸€æ¬¡"
+          }
+        ],
+        "required": false,
+        "validation": "",
+        "validationHint": "",
+        "customClass": "",
+        "labelIconClass": null,
+        "labelIconPosition": "rear",
+        "labelTooltip": null,
+        "onCreated": "",
+        "onMounted": "",
+        "onChange": "",
+        "onValidate": ""
+      },
+      "id": "radio71802"
+    },
+    {
+      "type": "static-text",
+      "icon": "static-text",
+      "formItemFlag": false,
+      "options": {
+        "name": "statictext63406",
+        "columnWidth": "200px",
+        "hidden": false,
+        "textContent": "7. æ‚¨æ˜¯å¦æ„¿æ„å‘å…¶ä»–äººæŽ¨èVFormï¼Ÿ",
+        "customClass": "",
+        "onCreated": "",
+        "onMounted": "",
+        "label": "static-text"
+      },
+      "id": "statictext63406"
+    },
+    {
+      "type": "radio",
+      "icon": "radio-field",
+      "formItemFlag": true,
+      "options": {
+        "name": "radio92444",
+        "label": "radio",
+        "labelAlign": "",
+        "defaultValue": null,
+        "columnWidth": "200px",
+        "size": "",
+        "displayStyle": "inline",
+        "buttonStyle": false,
+        "border": false,
+        "labelWidth": null,
+        "labelHidden": true,
+        "disabled": false,
+        "hidden": false,
+        "optionItems": [
+          {
+            "value": "1",
+            "label": "éžå¸¸æ„¿æ„"
+          },
+          {
+            "value": "2",
+            "label": "æœ‰åˆé€‚çš„æœºä¼šæ„¿æ„æŽ¨è"
+          },
+          {
+            "value": "3",
+            "label": "ä¸æ„¿æ„"
+          }
+        ],
+        "required": false,
+        "validation": "",
+        "validationHint": "",
+        "customClass": "",
+        "labelIconClass": null,
+        "labelIconPosition": "rear",
+        "labelTooltip": null,
+        "onCreated": "",
+        "onMounted": "",
+        "onChange": "",
+        "onValidate": ""
+      },
+      "id": "radio92444"
+    },
+    {
+      "type": "static-text",
+      "icon": "static-text",
+      "formItemFlag": false,
+      "options": {
+        "name": "statictext85090",
+        "columnWidth": "200px",
+        "hidden": false,
+        "textContent": "8. æ‚¨è®¤ä¸ºVFormåº”è¯¥å°½å¿«å®Œå–„å“ªäº›åŠŸèƒ½ï¼Ÿ",
+        "customClass": "",
+        "onCreated": "",
+        "onMounted": "",
+        "label": "static-text"
+      },
+      "id": "statictext85090"
+    },
+    {
+      "type": "input",
+      "icon": "text-field",
+      "formItemFlag": true,
+      "options": {
+        "name": "input81576",
+        "label": "input",
+        "labelAlign": "",
+        "type": "text",
+        "defaultValue": "",
+        "placeholder": "è¯·ç•™ä¸‹æ‚¨çš„å®è´µå»ºè®®",
+        "columnWidth": "200px",
+        "size": "",
+        "labelWidth": null,
+        "labelHidden": true,
+        "readonly": false,
+        "disabled": false,
+        "hidden": false,
+        "clearable": true,
+        "showPassword": false,
+        "required": false,
+        "validation": "",
+        "validationHint": "",
+        "customClass": "",
+        "labelIconClass": null,
+        "labelIconPosition": "rear",
+        "labelTooltip": null,
+        "minLength": null,
+        "maxLength": null,
+        "showWordLimit": false,
+        "prefixIcon": "",
+        "suffixIcon": "",
+        "appendButton": false,
+        "appendButtonDisabled": false,
+        "buttonIcon": "el-icon-search",
+        "onCreated": "",
+        "onMounted": "",
+        "onInput": "",
+        "onChange": "",
+        "onFocus": "",
+        "onBlur": "",
+        "onValidate": ""
+      },
+      "id": "input81576"
+    }
+  ],
+  "formConfig": {
+    "modelName": "formData",
+    "refName": "vForm",
+    "rulesName": "rules",
+    "labelWidth": 150,
+    "labelPosition": "left",
+    "size": "",
+    "labelAlign": "label-right-align",
+    "cssCode": "",
+    "customClass": [],
+    "functions": "",
+    "layoutType": "PC",
+    "onFormCreated": "",
+    "onFormMounted": "",
+    "onFormDataChange": ""
+  }
+}
